@@ -1,10 +1,2 @@
-AkelPad
-=======
-
-Host AkelPad projects full code, original site is http://akelpad.sourceforge.net/
-
-![image](sample.png)
-
-![image](https://a.fsdn.com/con/app/proj/akelpad/screenshots/311643.jpg/max/max/1)
-
-![image](https://a.fsdn.com/con/app/proj/akelpad/screenshots/251378.jpg/max/max/1)
+Wanna like v2 on Win11:
+![image](https://github.com/stopgaming/akelpad/assets/141147915/a6687228-2adc-43b7-9d2b-9eb14d92eaf6)
